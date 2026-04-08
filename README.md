@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Rubi Akter 👋
 
-<!--
-**rubi92948-coder/rubi92948-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CST Student  
+💻 Aspiring Web Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning React and modern web development  
+- 💡 Interested in building clean and user-friendly web applications  
+- 🎯 Goal: Become a Full Stack Developer  
+- ⚡ Passionate about continuous learning and improving my skills  
+
+---
+
+## 🛠️ Skills
+- HTML5  
+- CSS  
+- JavaScript  
+- React  
+- Git & GitHub  
+
+---
+
+## 🔗 Connect with me
+- Facebook: https://www.facebook.com/rubi.akter.200730 
+- LinkedIn: https: //www.linkedin.com/in/rubi-akter 
+
+---
+
+## ⚡ Fun Fact
+I enjoy turning ideas into real-world web projects 🚀

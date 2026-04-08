@@ -3,7 +3,10 @@
 🎓 CST Student  
 💻 Aspiring Web Developer  
 
----
+---# Welcome to My Profile
+
+![banner](https://github.com/rubi92948-coder/rubi92948-coder/blob/main/banner.png?raw=true)
+
 
 ## 🚀 About Me
 - 🌱 Currently learning React and modern web development  

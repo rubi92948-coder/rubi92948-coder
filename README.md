@@ -17,11 +17,18 @@
 ---
 
 ## 🛠️ Skills
-- HTML5  
-- CSS  
-- JavaScript  
-- React  
-- Git & GitHub  
+HTML5
+CSS3
+JavaScript (ES6)
+React.js
+Node.js
+Express.js
+MongoDB
+Authentication (JWT / Better Auth)
+Git & GitHub
+Microsoft Office
+Problem Solving
+Communication
 
 ---
 
